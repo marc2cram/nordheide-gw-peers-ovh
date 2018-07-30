@@ -1,4 +1,3 @@
 key "d78db33d6f3f602792e88cc1adbcce7c7c70cfc3a102d379b7a6fad629790c3";
-remote ipv4 "213.32.41.15" port 10050;
-remote ipv6 "2001:41d0:8:65e5::8" port 10050;
-
+remote ipv4 "51.38.103.127" port 10050;
+remote ipv6 "2001:41d0:700:687::7" port 10050;
